@@ -1,0 +1,23 @@
+[33mcommit a316b9d50814f5bd65eccd1bf51dfb79e8fb2e5a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mexperimental[m[33m, [m[1;32m123[m[33m)[m
+Author: Dayanch <annayarovdayanch19@gmail.com>
+Date:   Sun Feb 16 15:02:31 2025 +0300
+
+    Typed some shit
+
+[33mcommit 99e2b076c706406b311ae24693865b2e924b8fc2[m[33m ([m[1;31morigin/new_branch[m[33m, [m[1;32mnew_branch[m[33m)[m
+Author: Dayanch <annayarovdayanch19@gmail.com>
+Date:   Sun Feb 16 14:57:40 2025 +0300
+
+    Added some shit
+
+[33mcommit 1b0554db066bb9155d4283900ea43e604c689658[m
+Author: Dayanch <annayarovdayanch19@gmail.com>
+Date:   Sun Feb 16 14:41:10 2025 +0300
+
+    first commit
+
+[33mcommit 205bed0bb29e98cc6a4699a7bb8b40a52ce12a8e[m
+Author: Dayanch <annayarovdayanch19@gmail.com>
+Date:   Sun Feb 16 14:17:42 2025 +0300
+
+    Added gitjit.py
